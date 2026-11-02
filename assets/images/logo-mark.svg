@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="104" fill="#0b2545"/>
+  <path d="M256 58 450 164v184L256 454 62 348V164L256 58z" fill="#7fbe3a"/>
+  <path d="M256 98 414 182v148L256 414 98 330V182L256 98z" fill="#0b2545"/>
+  <path d="M164 286c48-9 76-38 88-86 19 48 48 77 96 86-48 9-77 38-88 86-19-48-48-77-96-86z" fill="#f58220"/>
+  <path d="M180 190c52 0 88-23 100-58 6 35 34 58 74 58" fill="none" stroke="#ffffff" stroke-width="17" stroke-linecap="round"/>
+  <text x="256" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="58" font-weight="700" fill="#ffffff" letter-spacing="2">ALL PRO</text>
+</svg>

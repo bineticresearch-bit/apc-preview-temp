@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061a31"/>
+      <stop offset="0.65" stop-color="#0b2545"/>
+      <stop offset="1" stop-color="#123a6b"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a5d65a"/>
+      <stop offset="1" stop-color="#5d9a24"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1090" cy="80" r="260" fill="#7fbe3a" opacity="0.10"/>
+  <circle cx="1120" cy="560" r="300" fill="#f58220" opacity="0.06"/>
+  <path d="M0 520 1200 380v250H0z" fill="#7fbe3a" opacity="0.08"/>
+  <g transform="translate(82 78)">
+    <rect width="82" height="82" rx="18" fill="#7fbe3a"/>
+    <path d="M41 10 70 26v26L41 72 12 52V26L41 10z" fill="#0b2545"/>
+    <path d="M28 45c7-2 11-7 13-14 2 7 7 12 14 14-7 2-12 7-13 14-2-7-6-12-14-14z" fill="#f58220"/>
+  </g>
+  <text x="184" y="132" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#ffffff" letter-spacing="1">ALL PRO</text>
+  <text x="184" y="164" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#a5d65a" letter-spacing="5">DUCT CLEANING LLC</text>
+  <text x="82" y="308" font-family="Georgia, serif" font-size="76" font-weight="700" fill="#ffffff">Air duct cleaning in</text>
+  <text x="82" y="392" font-family="Georgia, serif" font-size="76" font-weight="700" fill="#ffffff">Vancouver, WA</text>
+  <text x="84" y="452" font-family="Arial, sans-serif" font-size="26" fill="#d5e2f0">Ducts, dryer vents, and crawl spaces across the Portland metro.</text>
+  <text x="84" y="540" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#f58220">(360) 903-9030</text>
+  <text x="700" y="540" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#a5d65a" letter-spacing="2">LOCALLY OWNED · LICENSED IN WASHINGTON</text>
+  <rect x="84" y="574" width="1032" height="2" fill="#ffffff" opacity="0.18"/>
+</svg>

@@ -1,0 +1,24 @@
+# Old WordPress and legacy paths
+/services/  /duct-cleaning-services/  301
+/residential/  /duct-cleaning-services/air-duct-cleaning/  301
+/coupon-companies/  /blog/coupon-air-duct-cleaning-companies/  301
+/crawl-space-services/crawl-space-exclusion-and-entry-sealing/  /crawl-space-services/crawl-space-exclusion-entry-sealing/  301
+/why-businesses-need-commercial-air-duct-cleaning/  /blog/commercial-air-duct-cleaning/  301
+/can-clean-air-ducts-lower-your-energy-bills/  /blog/can-clean-air-ducts-lower-energy-bills/  301
+/what-is-air-duct-cleaning/  /blog/what-is-air-duct-cleaning/  301
+/how-often-should-you-have-your-furnace-cleaned/  /blog/how-often-should-you-have-your-furnace-cleaned/  301
+/signs-your-air-ducts-may-need-to-be-cleaned/  /blog/signs-your-air-ducts-need-cleaning/  301
+/coupon-air-duct-cleaning-companies/  /blog/coupon-air-duct-cleaning-companies/  301
+/why-is-my-house-so-dusty-in-the-summer/  /blog/  301
+/signs-your-hvac-system-isnt-running-efficiently/  /blog/  301
+/vancouver-wa-winter-duct-cleaning-portland-dryer-vent-cleaning/  /blog/  301
+/service-area/  /locations/  301
+/areas-we-serve/  /locations/  301
+/contact-us/  /contact/  301
+/reviews/  /testimonials/  301
+/feed/  /blog/  301
+/feed  /blog/  301
+/sitemap_index.xml  /sitemap.xml  301
+/page-sitemap.xml  /sitemap.xml  301
+/wp-login.php  /  301
+/wp-admin/  /  301
